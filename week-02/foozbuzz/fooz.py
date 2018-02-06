@@ -1,11 +1,11 @@
-def fob(max):
-    for num in range(1, max + 1):
-        print(str(num), end='')
+def fob(limit):
+    for num in range(1, int(limit + 1)):
         if num % 15 is 0:
-            print(" FizzBuzz")
+            print(str(num) + ' FizzBuzz')
         elif num % 3 is 0:
-            print(" Fizz")
+            print(str(num) + ' Fizz')
         elif num % 5 is 0:
-            print(" Buzz")
+            print(str(num) + ' Buzz')
         else:
-            print("")
+            print(num)
+
