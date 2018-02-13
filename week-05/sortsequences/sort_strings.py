@@ -24,7 +24,7 @@ def by_longest_length():
         Sort in descending order of length of strings
         """
 # fill it out
-    return sorted(STRING_LIST, key = lambda s: len(s))
+    return sorted(STRING_LIST, key = lambda s: len(s), reverse=True)
 
 
 def filter_and_sort_number_strings():
