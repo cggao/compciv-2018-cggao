@@ -19,11 +19,7 @@ def as_absolute_value():
         The absolute value of a number `n` is its value
         regardless of positive or negative sign
         """
-    result = []
-    for x in NUMBER_LIST:
-        pos = abs(x)
-        result.append(pos)
-    return sorted(result)
+    return sorted(NUMBER_LIST, key = lambda s: abs(s))
 
 def as_inverse_number():
     """
@@ -31,8 +27,5 @@ def as_inverse_number():
         The bigger the number, the smaller its inverse, and vice versa
         """
 # fill it out
-    result = []
-    for x in NUMBER_LIST:
-        new = 1/x
-        result.append(new)
-    return sorted(result)
+
+    return sorted(NUMBER_LIST, key = lambda s: 1/s)
