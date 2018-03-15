@@ -1,8 +1,8 @@
-##Final Project README
+##Final Project README##
 
 My idea for a report on Senate finance disclosures is to look at how many Senators have made amendments to their disclosures. A visualization idea is to show a graph of number of amendments by year. And also to break it down by party (i.e. Republican vs Democratic).
 
-######References
+######References######
 
 Sen. Bob Corker Failed to Properly Disclose Millions of Dollars in Income: https://www.wsj.com/articles/sen-bob-corker-failed-to-properly-disclose-millions-of-dollars-in-income-1450051046
 Senators often file amendments to correct small mistakes and oversights in their financial-disclosure forms, but it is unusual for a member of Congress to amend all of their financial reports in one sweep; Mr. Corker had failed to properly disclose at least $2 million in income from investments in three small hedge funds based in his home state. The question now is whether senators should be punished. “You can’t just disclose once you get caught,” said Anne Weismann, president of the Campaign for Accountability. Filing new financial reports “doesn’t change the fact that he failed to disclose properly the first time.”
