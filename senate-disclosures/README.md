@@ -1,6 +1,6 @@
 # Final Project README
 
-My idea for a report on Senate finance disclosures is to look at how many Senators have made amendments to their disclosures. A visualization idea is to show a graph of number of amendments by year. And also to break it down by party (i.e. Republican vs Democratic).
+For my project, I'm interested in looking at how many Senators have made amendments to their disclosures. It's not unusual for a Senator to file amendments to correct small mistakes, but it would be interesting to see if there are trends based on what, politically, is happening in a specific year. A visualization idea is to show a graph of number of amendments by year. And also to break it down by party (i.e. Republican vs Democratic).
 
 ## References
 
