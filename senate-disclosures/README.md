@@ -1,6 +1,6 @@
 # Final Project README
 
-For my project, I'm interested in looking at how many Senators have made amendments to their disclosures. It's not unusual for a Senator to file amendments to correct small mistakes, but it would be interesting to see if there are trends based on what, politically, is happening in a specific year. It's also interesting to pay attention to which senators have been accused of purposefully misfiling their documents. A visualization idea is to show a graph of number of amendments by year. And also to break it down by party (i.e. Republican vs Democratic).
+For my project, I'm interested in looking at how many Senators have made amendments to their disclosures. It's not unusual for a Senator to file amendments to correct small mistakes, but it would be interesting to see if there are trends based on what, politically, is happening in a specific year. It's also interesting to pay attention to the senators whom been accused of purposefully misfiling their documents. A visualization idea is to show a graph of number of amendments by year. And also to break it down by party (i.e. Republican vs Democratic).
 
 ## References
 
